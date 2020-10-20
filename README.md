@@ -8,7 +8,7 @@
 3. Option b, calculate the circumference of a circle given the radius
 
 ## Part 2: String
-### Create another program within the same repository that:
+### Create another program in a new Repl.it (use github if it let's you):
 1. Let's the user search a string for a word (first word entered)
 2. replaces said word with another that they enter (second word entered) if it's in the string
 3. Replaces the string variable with the new string containing the new word (second one entered)
